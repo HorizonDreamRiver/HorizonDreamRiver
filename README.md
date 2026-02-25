@@ -1,8 +1,3 @@
-<!-- 横幅区域 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=你好，我是HorizonDreamRiver;前端开发者+GIS工程师;空间数据可视化探索者" alt="动态打字效果" />
-</div>
-
 <!-- 简介区域 -->
 <div align="center">
   <br />
@@ -104,26 +99,9 @@
 - 🌱 **正在学习**: 三维GIS、WebGL地图渲染、GIS服务优化
 - 👯 **寻求合作**: 任何结合前端与GIS的创新项目
 - 💬 **与我交流**: GIS数据可视化、Vue3最佳实践、空间分析
-- 📫 **如何联系我**: [horizondreamriver@example.com](mailto:horizondreamriver@example.com)
+- 📫 **如何联系我**: QQ邮箱 2178826709@qq.com
 
 ---
-
-## 📫 联系我
-
-<div align="center">
-  
-  <!-- 社交媒体链接 -->
-  <a href="https://github.com/HorizonDreamRiver">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
-</div>
 
 <div align="center">
   <br />
